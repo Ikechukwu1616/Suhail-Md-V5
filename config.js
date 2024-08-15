@@ -26,7 +26,7 @@ global.caption = process.env.CAPTION || global.caption || "ℙ𝕆𝕎𝔼ℝ�
 
 global.devs = "2347038336733" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2347038336733";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2347063183606";
 
 
 
